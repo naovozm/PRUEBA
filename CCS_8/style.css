@@ -1,6 +1,6 @@
 @font-face {
     font-family:'Montserrat';
-    src: url(/FUENTES_8/Montserrat-VariableFont_wght.ttf);
+    src: url(../FUENTES_8/Montserrat-VariableFont_wght.ttf);
 }
 p{
     font-family: "Montserrat";
@@ -59,13 +59,13 @@ grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
 #s5{
    grid-column:6/8;
   grid-row: 1/2;
-  background-image: url(/IMG_8/gallery-1.jpg);
+  background-image: url(../IMG_8/gallery-1.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 #s6{
-   background-image: url(/IMG_8/gallery-2.jpg);
+   background-image: url(../IMG_8/gallery-2.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -78,7 +78,7 @@ grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
 #s8{
    grid-column:2/4;
   grid-row: 2/4;
-  background-image: url(/IMG_8/gallery-3.jpg);
+  background-image: url(../IMG_8/gallery-3.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -100,7 +100,7 @@ grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
 }
 
 #s12{
-  background-image: url(/IMG_8/gallery-4.jpg);
+  background-image: url(../IMG_8/gallery-4.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -116,7 +116,7 @@ grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
 }
 
 #s15{
-  background-image: url(/IMG_8/gallery-5.jpg);
+  background-image: url(../IMG_8/gallery-5.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -152,7 +152,7 @@ grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
 }
 
 #s23{
-  background-image: url(/IMG_8/gallery-6.jpg);
+  background-image: url(../IMG_8/gallery-6.jpg);
   background-size: cover;
   background-repeat: no-repeat;
    grid-column:6/7;    
@@ -165,7 +165,7 @@ grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
   grid-row: 4/6;
 }
 #s25{
-  background-image: url(/IMG_8/gallery-7.jpg);
+  background-image: url(../IMG_8/gallery-7.jpg);
   background-size: cover;
   background-repeat: no-repeat;
     grid-column:8/9;    
@@ -182,7 +182,7 @@ grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
  background-color: #51e6d6;
 }
 #s29{
- background-image: url(/IMG_8/gallery-8.jpg);
+ background-image: url(../IMG_8/gallery-8.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
